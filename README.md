@@ -35,4 +35,4 @@ PCA (Principle Component Analysis) is an **Unsupervised Learning** Technique.
           Python
 
 
-## **The Codes regarding this PCA with its datasets are present in this Repository in detail**
+ **The Codes regarding this PCA with its datasets are present in this Repository in detail**
